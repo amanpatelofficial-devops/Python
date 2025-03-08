@@ -31,3 +31,23 @@ a) dict: Represents dictionaries (key-value pairs). Example: my_dict =  bash````
 a) set: Represents sets (unordered collections of unique elements). bash````Example: my_set = {1, 2, 3}````
 
 b) frozenset: Represents immutable sets. Example: bash````my_frozenset = frozenset([1, 2, 3])````
+
+### 5.Boolean Type:
+
+a) bool: Represents Boolean values (True or False). Example: bash````is_valid = True````
+
+### 6.Binary Types:
+
+a) bytes: Represents immutable sequences of bytes. ````bash Example: data = b'Hello'````
+
+b) bytearray: Represents mutable sequences of bytes. ````bash Example: data = bytearray(b'Hello')````
+
+
+### 7. None Type:
+
+a) NoneType: Represents the None object, which is used to indicate the absence of a value or a null value.
+
+### 8.Custom Data Types:
+
+a) You can also define your custom data types using classes and objects.
+
