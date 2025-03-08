@@ -6,8 +6,8 @@ In programming, a data type is a classification or categorization that specifies
 
 ### 1. Numeric Data Types:
 
-int: Represents integers (whole numbers). Example: bash````x = 5````
+a) int: Represents integers (whole numbers). Example: bash````x = 5````
 
-float: Represents floating-point numbers (numbers with decimal points). Example:bash```` y = 3.14````
+b) float: Represents floating-point numbers (numbers with decimal points). Example:bash```` y = 3.14````
 
-complex: Represents complex numbers. Example: bash```` z = 2 + 3j````
+c) complex: Represents complex numbers. Example: bash```` z = 2 + 3j````
