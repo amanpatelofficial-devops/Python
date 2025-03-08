@@ -20,3 +20,14 @@ a) str: Represents strings (sequences of characters). Example: bash````text = "H
 b) list: Represents lists (ordered, mutable sequences). Example: bash```` my_list = [1, 2, 3]````
 
 c) tuple: Represents tuples (ordered, immutable sequences). Example: bash```` my_tuple = (1, 2, 3)````
+
+### 3.Mapping Type:
+
+a) dict: Represents dictionaries (key-value pairs). Example: my_dict =  bash````{'name': 'John', 'age': 30}````
+
+
+### 4.Set Types:
+
+a) set: Represents sets (unordered collections of unique elements). bash````Example: my_set = {1, 2, 3}````
+
+b) frozenset: Represents immutable sets. Example: bash````my_frozenset = frozenset([1, 2, 3])````
