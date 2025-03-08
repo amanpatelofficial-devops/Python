@@ -4,7 +4,7 @@ In programming, a data type is a classification or categorization that specifies
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Numeric Data Types:
+### 1. Numeric Data Types:
 
 int: Represents integers (whole numbers). Example: bash````x = 5````
 
