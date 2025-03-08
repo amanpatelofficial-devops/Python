@@ -11,3 +11,12 @@ a) int: Represents integers (whole numbers). Example: bash````x = 5````
 b) float: Represents floating-point numbers (numbers with decimal points). Example:bash```` y = 3.14````
 
 c) complex: Represents complex numbers. Example: bash```` z = 2 + 3j````
+
+
+### 2. Sequence Types:
+
+a) str: Represents strings (sequences of characters). Example: bash````text = "Hello, World"````
+
+b) list: Represents lists (ordered, mutable sequences). Example: bash```` my_list = [1, 2, 3]````
+
+c) tuple: Represents tuples (ordered, immutable sequences). Example: bash```` my_tuple = (1, 2, 3)````
