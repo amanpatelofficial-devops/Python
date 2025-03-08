@@ -30,28 +30,28 @@ Here are some important Python keywords:
 
 13) def: It is used to define a function in Python.
 
-return: It is used within a function to specify the value that the function should return.
+14) return: It is used within a function to specify the value that the function should return.
 
-class: It is used to define a class, which is a blueprint for creating objects in object-oriented programming.
+15) class: It is used to define a class, which is a blueprint for creating objects in object-oriented programming.
 
-import: It is used to import modules or libraries to access their functions, classes, or variables.
+16) import: It is used to import modules or libraries to access their functions, classes, or variables.
 
-from: Used with import to specify which specific components from a module should be imported.
+17) from: Used with import to specify which specific components from a module should be imported.
 
-as: Used with import to create an alias for a module, making it easier to reference in the code.
+18) as: Used with import to create an alias for a module, making it easier to reference in the code.
 
-True: It represents a boolean value for "true."
+19) True: It represents a boolean value for "true."
 
-False: It represents a boolean value for "false."
+20) False: It represents a boolean value for "false."
 
-None: It represents a special null value or absence of value.
+21) None: It represents a special null value or absence of value.
 
-is: It is used for identity comparison, checking if two variables refer to the same object in memory.
+22) is: It is used for identity comparison, checking if two variables refer to the same object in memory.
 
-lambda: It is used to create small, anonymous functions (lambda functions).
+23) lambda: It is used to create small, anonymous functions (lambda functions).
 
-with: It is used for context management, ensuring that certain operations are performed before and after a block of code.
+24) with: It is used for context management, ensuring that certain operations are performed before and after a block of code.
 
-global: It is used to declare a global variable within a function's scope.
+25) global: It is used to declare a global variable within a function's scope.
 
-nonlocal: It is used to declare a variable as nonlocal, which allows modifying a variable in an enclosing (but non-global) scope.
+26) nonlocal: It is used to declare a variable as nonlocal, which allows modifying a variable in an enclosing (but non-global) scope.
